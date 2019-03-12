@@ -7,10 +7,10 @@
 <project name="lineageOS/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" revision="lineage-16.0" />  
 
 <!--tissot kernel tree-->
-<project name="lineageOS/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" revision="lineage-16.0" />
+<project name="los16tissot/kernel_tissot" path="kernel/xiaomi/msm8953" remote="github" revision="lineage-16.0" />
 
 <!--tissot vendor tree-->
-<project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-16.0" />
+<project name="los16tissot/vendor_tissot" path="vendor/xiaomi" remote="github" revision="lineage-16.0" />
 
 <!--tissot extra-->
 <project name="lineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
